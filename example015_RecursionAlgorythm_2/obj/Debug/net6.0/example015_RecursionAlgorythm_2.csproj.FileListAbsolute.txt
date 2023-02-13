@@ -1,0 +1,15 @@
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\bin\Debug\net6.0\example015_RecursionAlgorythm_2.exe
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\bin\Debug\net6.0\example015_RecursionAlgorythm_2.deps.json
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\bin\Debug\net6.0\example015_RecursionAlgorythm_2.runtimeconfig.json
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\bin\Debug\net6.0\example015_RecursionAlgorythm_2.dll
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\bin\Debug\net6.0\example015_RecursionAlgorythm_2.pdb
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\example015_RecursionAlgorythm_2.csproj.AssemblyReference.cache
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\example015_RecursionAlgorythm_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\example015_RecursionAlgorythm_2.AssemblyInfoInputs.cache
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\example015_RecursionAlgorythm_2.AssemblyInfo.cs
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\example015_RecursionAlgorythm_2.csproj.CoreCompileInputs.cache
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\example015_RecursionAlgorythm_2.dll
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\refint\example015_RecursionAlgorythm_2.dll
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\example015_RecursionAlgorythm_2.pdb
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\example015_RecursionAlgorythm_2.genruntimeconfig.cache
+C:\Users\featl\Desktop\обучение\examples\example015_RecursionAlgorythm_2\obj\Debug\net6.0\ref\example015_RecursionAlgorythm_2.dll
